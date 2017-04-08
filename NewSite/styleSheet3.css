@@ -1,0 +1,19 @@
+body {
+    background-image:url(linedpaper.jpg);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+ul, li, a {
+    font-size: 25px;
+    font-weight: 800;
+    display: inline;
+    text-decoration: none;
+    padding-left: 10px;
+    margin-left: 0px;
+    color: black;
+    font-family: 'Amatic SC', cursive;
+}
